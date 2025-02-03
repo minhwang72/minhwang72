@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi there 👋 \n</li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi there 👋 <br></li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
