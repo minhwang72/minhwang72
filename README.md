@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi there 👋 <br></li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
@@ -40,8 +40,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhwang72&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhwang72&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
     </div>
     
