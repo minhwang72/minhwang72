@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     </div>
 </div>
-<div align="center">
+<div align="center" style="margin-top: 20px;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📬 Contact Me </h2> <br> 
     <div align="center"> 
         <a href="https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24"> 
@@ -49,10 +49,8 @@
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zxcyui6181@gmail.com"> 
         </a>
     </div>  
-    <br> 
-    <div align="center">  
-    </div> 
 </div>
-<div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=5175e1" />  
+<div align="center" style="margin-top: 20px;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2> <br> 
+    <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=000000&icon_color=5175e1&border_color=5175e1" />  
 </div> 
