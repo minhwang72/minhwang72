@@ -1,12 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
-    <div align= "center"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi there 👋 <br></li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> developer </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi there 👋<br></li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
     </div>
-    <div align= "center">
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <div  align= "center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
@@ -32,15 +33,15 @@
           <img src="https://img.shields.io/badge/Zeplin-fdbd39?style=for-the-badge&logo=Zeplin&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24"> </a>
          <a href=mailto:zxcyui6181@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zxcyui6181@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhwang72&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=5175e1"
+         />  </div> 
     </div>
     
