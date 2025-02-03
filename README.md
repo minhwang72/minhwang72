@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi there 👋<br></li>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
     </div>
     <div style="text-align: left;">
