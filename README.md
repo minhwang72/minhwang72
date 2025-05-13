@@ -1,45 +1,79 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
-<div align="center"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hi there 👋<br>🧑🏻‍💻 I'm a Full Stack Engineer </div> 
-</div>
-<div align="center" style="margin-top: 20px;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact Me </h2> <br> 
-    <div align="center"> 
-        <a href="https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24"> 
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
-        </a>
-        <a href="mailto:zxcyui6181@gmail.com"> 
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-        </a>
-    </div>  
-</div>
+
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center"> 
-        <h3>Languages</h3>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-        <br/>
-        <h3>Frameworks & Libraries</h3>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <br/>
-        <h3>Tools & Platforms</h3>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-        <br/>
-    </div>
+  <strong>Hi there 👋<br/>🧑🏻‍💻 I'm a Full Stack Engineer</strong>
 </div>
-        <br/>        <br/>        <br/>
-<div align="center" style="margin-top: 20px;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=000000&icon_color=5175e1&border_color=5175e1" />  
-</div> 
+
+<br/>
+
+<div align="center">
+  <h2><strong>📬 Contact Me</strong></h2><br/>
+  <a href="https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  </a>
+  <a href="mailto:zxcyui6181@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2><strong>💻 Tech Stacks</strong></h2>
+</div>
+
+### 🧠 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### 🔧 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
+</p>
+
+### 🛠 Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+<br/>
+
+<div align="center">
+  <h2><strong>📊 GitHub Stats</strong></h2><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=000000&icon_color=5175e1&border_color=5175e1" />
+</div>
