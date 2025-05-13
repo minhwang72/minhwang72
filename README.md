@@ -10,8 +10,8 @@
 
 <div align="center">
   <h2><strong>📬 Contact Me</strong></h2><br/>
-  <a href="https://www.notion.so/Min-s-Life-1208746aa4e480c5a00bce00677c5a24" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  <a href="https://pf.eungming.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:zxcyui6181@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
