@@ -69,10 +69,3 @@
   <img src="https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
-
-<br/>
-
-<div align="center">
-  <h2><strong>📊 GitHub Stats</strong></h2><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=minhwang72&bg_color=180,00000000,00000000&title_color=5175e1&text_color=000000&icon_color=5175e1&border_color=5175e1" />
-</div>
