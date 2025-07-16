@@ -60,6 +60,13 @@
   <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
 </p>
 
+### 🤖 Automation / RPA
+<p align="center">
+  <img src="https://img.shields.io/badge/UiPath_Studio-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath_Orchestrator-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/REFramework-333333?style=for-the-badge&logo=uipath&logoColor=white" />
+</p>
+
 ### 🛠 Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
