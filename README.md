@@ -20,8 +20,7 @@
 ### 🧑🏻‍💻 About
 
 ```text
-now      AI센터 · 그룹사 8개 계열사 RPA 900+ 과제 단독 운영
-         공통 모듈 표준화로 월 장애 90 → 10건 · n8n·LLM·MCP로 운영 자동화
+now      AI센터 · 사내 웹앱·서버 담당, LLM·MCP·n8n으로 업무 자동화
 before   HEXAVEIL · Kotlin/Spring Boot·Django API, React/Next.js, Flutter (커머스)
 side     집 서버(monsil) 한 대로 서비스 6개를 직접 만들고 운영
 ```
@@ -49,7 +48,6 @@ side     집 서버(monsil) 한 대로 서비스 6개를 직접 만들고 운영
 
 | | 프로젝트 | 한 줄 |
 |:-:|---|---|
-| ⚙️ | **RPA 운영** | UiPath 경험 없이 1개월 만에 900개 과제 단독 인수 → 월 장애 90 → 10건 |
 | 🤖 | **[포트폴리오](https://github.com/minhwang72/portfolio)** | 서비스 상태판 + RAG 챗봇 (Gemini 임베딩 검색 → Claude 답변, 출처 표시) |
 | 📈 | **[Balance Desk](https://stock.eungming.com)** | KIS Open API 기반 ISA 포트폴리오 대시보드, 목표 비중 이탈 알림 |
 | 📝 | **[CBT 학습](https://cbt.eungming.com)** | 정보처리기사 기출 6년치를 정리한 시험 연습 사이트 |
@@ -80,7 +78,6 @@ side     집 서버(monsil) 한 대로 서비스 6개를 직접 만들고 운영
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
