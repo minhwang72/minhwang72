@@ -1,10 +1,10 @@
 <!-- 2026-10 개편. 상태 배지는 pf.eungming.com 서버가 1분마다 직접 확인한 값 -->
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Hwang Min — Fullstack & AI Engineer" />
+  <img src="assets/banner.svg" width="100%" alt="Hwang Min — Fullstack & AI Engineer" />
 </div>
 
 <div align="center">
-  <a href="https://pf.eungming.com"><img src="assets/typing.svg" alt="만들고, 배포하고, 운영합니다" /></a>
+  <a href="https://pf.eungming.com"><img src="assets/tagline.svg" alt="만들고, 배포하고, 운영합니다" /></a>
 </div>
 
 <p align="center">
