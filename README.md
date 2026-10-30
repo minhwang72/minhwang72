@@ -1,78 +1,30 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38e59a&height=180&text=MIN%20HWANG&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
+<!-- 2026-10 개편: pf.eungming.com 운영 콘솔 콘셉트와 맞춤. 상태 배지는 포트폴리오 서버가 1분마다 직접 확인한 값 -->
 
-<div align="center">
-  <strong>Hi there 👋<br/>🧑🏻‍💻 I'm a Full Stack Engineer</strong>
-</div>
+### `min@monsil:~$` Hwang Min — Fullstack & AI Engineer
 
-<br/>
+서비스를 **만들고, 배포하고, 운영합니다.** 서울에서 일하고, 집에 있는 서버 한 대로 서비스 여러 개를 직접 돌립니다.
 
-<div align="center">
-  <h2><strong>📬 Contact Me</strong></h2><br/>
-  <a href="https://pf.eungming.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:zxcyui6181@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
+[![services](https://img.shields.io/endpoint?url=https%3A%2F%2Fpf.eungming.com%2Fapi%2Fbadge&style=flat-square)](https://pf.eungming.com)
+[![portfolio](https://img.shields.io/badge/portfolio-pf.eungming.com-2DD4BF?style=flat-square)](https://pf.eungming.com)
+[![blog](https://img.shields.io/badge/blog-eungming.com-5F6F6A?style=flat-square)](https://eungming.com)
 
-<br/>
+```text
+now      AI센터 · 그룹사 8개 계열사 RPA 900+ 과제 단독 운영
+         월 장애 90 → 10건 · n8n·LLM·MCP로 운영 자동화
+before   HEXAVEIL · Kotlin/Spring Boot·Django API, React/Next.js, Flutter (커머스)
+```
 
-<div align="center">
-  <h2><strong>💻 Tech Stacks</strong></h2>
-</div>
+#### 대표 작업
 
-### 🧠 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+| | 무엇 | 숫자 |
+|---|---|---|
+| **[뮤직시트 MuT](https://pf.eungming.com/#featured)** | 악보 사진 → 원하는 키의 새 악보. LLM 통째 판독(1세대)을 CV 검출 + AI 판독 + MusicXML 재조판으로 다시 설계 | 음높이 727/727 · 코드 141/141 (내부 표본) |
+| **[RPA 운영](https://pf.eungming.com/#operations)** | UiPath 경험 없이 1개월 만에 900개 과제 단독 인수, 공통 모듈 표준화 | 월 장애 90 → 10건 |
+| **[포트폴리오](https://github.com/minhwang72/portfolio)** | 서비스 상태판 + RAG 챗봇(Gemini 임베딩 검색 → Claude 답변, 출처 표시) | 질문 1건 ≈ 1원 미만 |
+| **[Balance Desk](https://stock.eungming.com)** | KIS Open API 기반 ISA 포트폴리오 대시보드 | — |
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+#### 쓰는 기술
 
-### 🔧 Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+`TypeScript` `Next.js` `Kotlin` `Spring Boot` `Python` `Django` `Flutter` · `Claude API` `MCP` `RAG` `YOLO/OpenCV` · `Docker` `nginx` `GitHub Actions` `UiPath` `n8n`
 
-### ⚙️ DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
-</p>
-
-### 🤖 Automation / RPA
-<p align="center">
-  <img src="https://img.shields.io/badge/UiPath_Studio-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath_Orchestrator-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/REFramework-333333?style=for-the-badge&logo=uipath&logoColor=white" />
-</p>
-
-### 🛠 Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+대부분의 저장소는 비공개입니다. 구조나 코드가 궁금하면 [포트폴리오의 AI](https://pf.eungming.com)에게 묻거나 메일 주세요 → **zxcyui6181@gmail.com**
