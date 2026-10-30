@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://pf.eungming.com"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpf.eungming.com%2Fapi%2Fbadge&style=for-the-badge" /></a>
+  <a href="https://pf.eungming.com"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpf.eungming.com%2Fapi%2Fbadge&style=for-the-badge&cacheSeconds=300" /></a>
   <a href="https://pf.eungming.com"><img src="assets/portfolio.svg" /></a>
   <a href="https://eungming.com"><img src="assets/blog.svg" /></a>
   <a href="mailto:zxcyui6181@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
