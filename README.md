@@ -1,4 +1,3 @@
-<!-- 2026-10 개편. 상태 배지는 pf.eungming.com 서버가 1분마다 직접 확인한 값 -->
 <div align="center">
   <img src="assets/banner2.svg" width="100%" alt="Hwang Min — Fullstack & AI Engineer" />
 </div>
@@ -8,7 +7,6 @@
 </div>
 
 <p align="center">
-  <a href="https://pf.eungming.com"><img src="https://pf.eungming.com/api/badge.svg" alt="services status" /></a>
   <a href="https://pf.eungming.com"><img src="assets/portfolio.svg" /></a>
   <a href="https://eungming.com"><img src="assets/blog.svg" /></a>
   <a href="mailto:zxcyui6181@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
