@@ -17,29 +17,17 @@
 
 <br/>
 
-웹·앱 풀스택 개발자로 시작해, 지금은 AI센터에서 사내 웹앱과 서버를 맡고 있습니다.
-퇴근 후에는 집 서버 한 대에서 직접 만든 서비스들을 운영합니다.
+### 👋 Hi, I'm Min
 
-<br/>
+- 🏢 AI센터에서 사내 웹앱과 서버를 만들고 관리합니다 (Next.js · Docker · nginx)
+- 🔧 이전엔 Kotlin/Spring Boot · Django API, React · Flutter 앱을 개발했습니다
+- 🏠 사이드 프로젝트는 홈서버에 직접 배포해서 운영합니다
+- 🌱 요즘 관심사: LLM 에이전트, RAG, MCP
 
-**Now**
-
-- 🎼 [뮤직시트 MuT](https://conti.eungming.com) — 악보 사진을 원하는 키의 새 악보로 다시 그리는 서비스
-- 📱 토스 미니앱 3종 운영 중 · [오늘운](https://play.google.com/store/apps/details?id=im.moid.oneulun) · [애니믹스](https://play.google.com/store/apps/details?id=im.moid.animix)는 Google Play에도 출시
-- 🤖 LLM · RAG · MCP로 사내 업무 자동화
-
-**Stack**
+### 🛠 Tech Stack
 
 <img src="assets/stack.svg" height="36" alt="TypeScript, Next.js, React, Tailwind, Kotlin, Spring, Python, Django, Flutter, MySQL, Prisma, Docker, nginx, GitHub Actions, Linux" />
 
-<sub>+ Claude · Gemini API, n8n, OpenCV · YOLO</sub>
-
-**Certified**
-
-<a href="https://www.credly.com/badges/59b07b26-51a1-43df-b080-a2ff6b39bbd4/public_url">Claude Certified Architect – Foundations</a> · 네트워크관리사 2급
-
 <br/>
-
-<p align="center"><sub>프로젝트 자세한 내용과 이력서는 <a href="https://pf.eungming.com">pf.eungming.com</a> · 대부분의 저장소는 비공개입니다</sub></p>
 
 <img src="assets/footer.svg" width="100%" />
