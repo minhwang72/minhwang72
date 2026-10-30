@@ -1,16 +1,16 @@
 <!-- 2026-10 개편. 상태 배지는 pf.eungming.com 서버가 1분마다 직접 확인한 값 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2DD4BF&height=200&section=header&text=Hwang%20Min&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20%26%20AI%20Engineer%20%C2%B7%20Seoul&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="assets/header.svg" width="100%" alt="Hwang Min — Fullstack & AI Engineer" />
 </div>
 
 <div align="center">
-  <a href="https://pf.eungming.com"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&duration=3000&pause=1200&color=0F766E&center=true&vCenter=true&width=560&lines=%EB%A7%8C%EB%93%A4%EA%B3%A0%2C+%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0%2C+%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4;RPA+900%EA%B0%9C+%EA%B3%BC%EC%A0%9C+%EB%8B%A8%EB%8F%85+%EC%9A%B4%EC%98%81;%EC%A7%91+%EC%84%9C%EB%B2%84+%ED%95%9C+%EB%8C%80%EB%A1%9C+%EC%84%9C%EB%B9%84%EC%8A%A4+6%EA%B0%9C+%EC%9A%B4%EC%98%81" alt="만들고, 배포하고, 운영합니다" /></a>
+  <a href="https://pf.eungming.com"><img src="assets/typing.svg" alt="만들고, 배포하고, 운영합니다" /></a>
 </div>
 
 <p align="center">
   <a href="https://pf.eungming.com"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpf.eungming.com%2Fapi%2Fbadge&style=for-the-badge" /></a>
-  <a href="https://pf.eungming.com"><img src="https://img.shields.io/badge/Portfolio-pf.eungming.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://eungming.com"><img src="https://img.shields.io/badge/Blog-eungming.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://pf.eungming.com"><img src="assets/portfolio.svg" /></a>
+  <a href="https://eungming.com"><img src="assets/blog.svg" /></a>
   <a href="mailto:zxcyui6181@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/min-hwang-071b18316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -87,10 +87,10 @@ side     집 서버(monsil) 한 대로 서비스 6개를 직접 만들고 운영
 ### 🏅 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/59b07b26-51a1-43df-b080-a2ff6b39bbd4/public_url"><img src="https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89-0F766E?style=flat-square" />
+  <a href="https://www.credly.com/badges/59b07b26-51a1-43df-b080-a2ff6b39bbd4/public_url"><img src="assets/cert-claude.svg" /></a>
+  <img src="assets/cert-network.svg" />
 </p>
 
 <p align="center"><sub>대부분의 저장소는 비공개입니다. 궁금한 건 <a href="https://pf.eungming.com">포트폴리오의 AI</a>에게 묻거나 메일 주세요 → <b>zxcyui6181@gmail.com</b></sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0F766E&height=110&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" />
